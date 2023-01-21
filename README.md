@@ -9,7 +9,6 @@
 </p>
 
 <h3>Tegnologias</h3>
-<h1>  
   <p>
     <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-              right:10px;"/>
 
@@ -25,10 +24,7 @@
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
   <img align="left" alt="Chakra" width="26px" src="https://ia902807.us.archive.org/24/items/github.com-chakra-ui-chakra-ui_-_2020-02-13_17-20-29/cover.jpg" style="padding-right:10px;"/>
-
-
 </p>
-</h1>
 
 
 ------------
