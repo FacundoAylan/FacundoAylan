@@ -28,7 +28,6 @@
 
   <img align="left" alt="Chakra" width="26px" src="https://ia902807.us.archive.org/24/items/github.com-chakra-ui-chakra-ui_-_2020-02-13_17-20-29/cover.jpg" style="padding-right:10px;"/>
 
-  <img align="left" alt="Postgres" width="26px" src="https://es.wikipedia.org/wiki/PostgreSQL#/media/Archivo:Postgresql_elephant.svg" style="padding-right:10px;"/>
 
 </p>
 
