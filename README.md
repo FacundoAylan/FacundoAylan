@@ -9,7 +9,7 @@
 </p>
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 Javascript.
+- ⚙️ React, Redux.
+- 👁️ Chakra, CSS.
+- 💽 Postgres, Sequelize.
