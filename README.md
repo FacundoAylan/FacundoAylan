@@ -8,9 +8,9 @@
   <b>Buenos Aires, Argentina</b>,
 </p>
 <p>¿Quien Soy?</p>
-<p>Soy estudiante de Ingeniería  Naval y Mecánica ,que conocio el mundo de la programacion web y quizo saber mas sobre el tema , por eso tome la decision de ingresar a Henry ,lugar donde aprendi a trabajar en grupo y poder crear mi primera pagina web .
+<p>Soy estudiante de Ingeniería  Naval y Mecánica ,que conocio el mundo de la programacion web y quizo saber mas sobre el tema , por eso tome la decision de ingresar a Henry ,lugar donde aprendi a trabajar en grupo y poder crear mi primera pagina web .Soy una persona que le gusta aprender constantemente tegnologias nuevas y que le gusta trabajar en grupo
 <p>¿Que hago?</p>
-<p>actualmente me encuentro en busqueda de mi primera oportunidad de trabajo , para poder seguir aprendiendo y poder demostrar mis habilidades</p> 
+<p>actualmente me encuentro en busqueda de mi primera oportunidad de trabajo , para poder seguir aprendiendo y poder demostrar mis habilidades.</p> 
 
 ## Skills
 
